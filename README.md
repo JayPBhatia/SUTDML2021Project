@@ -41,5 +41,5 @@ Python sample program for Gaussian Process: https://www.tensorflow.org/probabili
 Dataset: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345.   
 python sample program of Several types Binarized NN: https://github.com/itayhubara/BinaryNet.pytorch.  
   →This sample program is for MNIST or CIFAR10 dataset, so we should change dataset. 
-* The advantage of ML that I think: Binarized NN has compact model size than fully CNN, so BNN can be applied for wearable devices. If BNN detecting Thorax Disease is activated on smaller device as a wearable device, patients feel free to know their thorax disease, right?
+* The advantage of ML that I think: Binarized NN has compact model size than fully CNN, so BNN can be applied for wearable devices. If BNN detecting Thorax Disease is activated on smaller device as a wearable device, patients feel free to know their thorax disease, right? People can know if they have thorax disease by only taking their chest X-ray even if they live in the place where they don't have enough doctors.
 * The disadvantage of ML that I think: Machine learning can detect patient's disease instead of doctors. A few doctor who have no skills would loss their jobs?
