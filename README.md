@@ -26,7 +26,7 @@ https://www.analyticsvidhya.com/blog/2020/10/multivariate-multi-step-time-series
 ### Option 2 HMM State classification for 61850 GOOSE Power Grid DataSet
 https://livebook.manning.com/book/machine-learning-with-tensorflow/chapter-6/v-9/54
 
-## Tomomasa Yamasaki :
+## ★Tomomasa Yamasaki :
 
 
 ### Option 1 Gaussian Process or K-NN for Human Activity Recognition using smartphones with embedded inertial sensors
