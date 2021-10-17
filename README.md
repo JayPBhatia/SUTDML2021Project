@@ -11,7 +11,7 @@ https://www.overleaf.com/9837459215sdvwrhdwgwbh
 # Team 
 Arun (),
 Jay Bhatia(1005062), 
-Joel Tan(), 
+Joel Tan(1002738), 
 Tomomasa Yamasaki(1006480),
 Wei Zhou Sim()
 
