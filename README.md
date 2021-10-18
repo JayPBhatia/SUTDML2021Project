@@ -49,4 +49,4 @@ python sample program of Several types Binarized NN: https://github.com/itayhuba
 
 
 ### Predicting memory device time-to-failure from device characteristics
-Wear out leads to memory device failure over time. 
+Wear out leads to memory device failure over time. We can try to predict how long a device would last based on features like applied-voltage, applied-temperature, applied-magnetic field, internal magnetic field, resistance, switching probabilities, switching threshold voltages. I already have data from my own lab. Advantage: Breakdown of device is a complicated non-linear probabilistic process and hence hard to model. It is unknown whether it is possible to produce a useful estimator for device lifetime based on device features. Disadvantage: Might not have enough data (I have millions of samples). The resultant model is non-physical and best used for interpolation only. 
