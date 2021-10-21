@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1ex6X5akmWNpCP4H7FgeyCg1RPnmiK9Qx
 https://www.overleaf.com/9837459215sdvwrhdwgwbh
 
 # Team 
-Arun (),
+Arun (1005065),
 Jay Bhatia(1005062), 
 Joel Tan(1002738), 
 Tomomasa Yamasaki(1006480),
