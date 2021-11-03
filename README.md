@@ -13,7 +13,7 @@ Arun (1005065),
 Jay Bhatia(1005062), 
 Joel Tan(1002738), 
 Tomomasa Yamasaki(1006480),
-Wei Zhou Sim()
+Wei Zhou Sim(1005651)
 
 # ideas / interests
 
