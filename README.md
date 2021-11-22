@@ -8,6 +8,9 @@ https://colab.research.google.com/drive/1ex6X5akmWNpCP4H7FgeyCg1RPnmiK9Qx
 #Overleaf
 https://www.overleaf.com/9837459215sdvwrhdwgwbh
 
+#onedrive
+https://sutdapac-my.sharepoint.com/:f:/g/personal/tomomasa_yamasaki_mymail_sutd_edu_sg/Et6ytoRklcJBmiDQ-aTQ6zEBl75ye4cjKR8ausf9zbKoVg?e=bB40nq
+
 # Team 
 Arun (1005065),
 Jay Bhatia(1005062), 
