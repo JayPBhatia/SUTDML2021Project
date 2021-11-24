@@ -5,6 +5,9 @@ SUTD ML 2021 Project
 #Colab
 https://colab.research.google.com/drive/1ex6X5akmWNpCP4H7FgeyCg1RPnmiK9Qx
 
+#Colab PS#1 Classify active or non-active
+https://colab.research.google.com/drive/1cvr0-4mSrv-izJsHuTh49bNd0wopGynz?usp=sharing
+
 #Overleaf
 https://www.overleaf.com/9837459215sdvwrhdwgwbh
 
