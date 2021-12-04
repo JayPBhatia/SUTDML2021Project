@@ -11,6 +11,9 @@ https://colab.research.google.com/drive/1cvr0-4mSrv-izJsHuTh49bNd0wopGynz?usp=sh
 #Overleaf
 https://www.overleaf.com/9837459215sdvwrhdwgwbh
 
+#presentation 
+https://sutdapac-my.sharepoint.com/:p:/g/personal/tomomasa_yamasaki_mymail_sutd_edu_sg/Ee3huVpFCYZPjt0-bn3REoUBajLA_RMhiGdBJTH1fnG-qA?e=ZNHScc
+
 #onedrive
 https://sutdapac-my.sharepoint.com/:f:/g/personal/tomomasa_yamasaki_mymail_sutd_edu_sg/Et6ytoRklcJBmiDQ-aTQ6zEBl75ye4cjKR8ausf9zbKoVg?e=bB40nq
 
